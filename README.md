@@ -25,7 +25,7 @@ To run the code locally follow this process:
 6. Go to the cell below `Create prompts`, here you can change the prompts how you like, it is best to leave the “displayed from the front showing the whole body in the middle of the screen with a clear grey background” in the prompt for the performance
 7. Now you can run everything, except the `pip install` part, these are for the colab notebook
 8. You can see your result in the last cell on the bottom
-![[result.png]]
+![Result Image](https://github.com/vvvlntno/text-to-image-pixel-art/blob/main/result.png?raw=true)
 
 ---
 
@@ -34,7 +34,7 @@ To run the code in google colab follow this process, google account required:
 2. Open the colab notebook using right click on the file and open with `Google Colaboratory`
 3. Go to the cell below `Create prompts`, here you can change the prompts how you like, it is best to leave the “displayed from the front showing the whole body in the middle of the screen with a clear grey background” in the prompt for the performance
 4. Now you can run everything and see your output in the cell below
-![[result.png]]
+![Result Image](https://github.com/vvvlntno/text-to-image-pixel-art/blob/main/result.png?raw=true)
 
 --- 
 
